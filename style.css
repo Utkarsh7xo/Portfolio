@@ -26,6 +26,12 @@
   background: #f8f9fa;
   color: rgba(255, 255, 255, 0.637);
 }
+.card-text{
+  margin: 0;
+}
+.card-title{
+  margin-top: 5px;
+}
 .navbar-brand{
   border: 0;
 }
